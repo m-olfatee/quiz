@@ -1,0 +1,80 @@
+
+/* --------------------------- CodeFlow Übung lev2_5: Create Table with JS */
+
+/* body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  table {
+    background-color: #00918e;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+  }
+
+  #example td {
+    background-color: #4dd599;
+    height: 20px;
+    width: 20px;
+  }
+
+  #result td {
+    background-color: #ffdc34;
+    color: #110133;
+    height: 20px;
+    width: 20px;
+  } */
+
+
+  /* --------------------------- CodeFlow Übung lev2_7: Nummern */
+
+  /* .rechteck {
+    height: 40px;
+    width: 40px;
+    background-color: #d9eeec;
+    color: #da9833;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .weiss {
+    color: #64b2cd;
+    background-color: #da9833;
+    border-radius: 50%;
+    border: 2px solid #3c70a4;
+  }
+
+  .umwickeln {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+
+  button {
+    height: 40px;
+    width: 100px;
+    background-color: #64b2cd;
+    color: #333;
+    margin: auto;
+    margin-top: 20px;
+    display: block;
+    border: none;
+  } */
+
+
+/* ------------------------------------------ */
+
+#content {
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    height: 40px;
+    width: 100px;
+    display: block;
+}
